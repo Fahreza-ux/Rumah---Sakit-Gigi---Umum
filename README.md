@@ -1,28 +1,23 @@
-# Rumah---Sakit-Gigi---Umum
-# Website Rumah Sakit Gigi dan Umum
 
-Website resmi Rumah Sakit Gigi dan Umum Sentosa Sejahtera dengan desain modern dan responsif.
+
+# Rumah Sakit Gigi dan Umum - Website
+
+Website resmi untuk Rumah Sakit Gigi dan Umum dengan desain modern responsif.
+
+**Demo:** https://fahreza-ux.github.io/Rumah---Sakit-Gigi---Umum/
 
 ## Fitur
-- Desain responsif untuk semua perangkat
+- Desain responsif mobile-friendly
 - Form booking online
-- Informasi layanan dan dokter
-- Skema warna ungu yang menarik
-- Navigasi yang mudah
+- Informasi layanan & dokter
+- Skema warna ungu modern
+- Tanpa dependency external
 
 ## Teknologi
-- HTML5
-- CSS3 (Flexbox, Grid)
-- JavaScript Vanilla
-- Font Awesome icons
+- HTML5, CSS3, JavaScript
+- Flexbox & CSS Grid
+- Font Awesome Icons
 
 ## Cara Menjalankan
-1. Clone repository ini
-2. Buka file `index.html` di browser
-
-## Demo
-Lihat demo di: https://fahreza-ux.github.io/Rumah---Sakit-Gigi---Umum/
-
-## Kontak
-- Email: info@rsgusentosa.com
-- Telepon: (021) 123-4567
+1. Clone repository
+2. Buka index.html di browser

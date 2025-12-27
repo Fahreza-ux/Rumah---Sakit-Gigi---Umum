@@ -21,7 +21,7 @@ Website resmi Rumah Sakit Gigi dan Umum Sentosa Sejahtera dengan desain modern d
 2. Buka file `index.html` di browser
 
 ## Demo
-Lihat demo di: [GitHub Pages Link]
+Lihat demo di: https://fahreza-ux.github.io/Rumah---Sakit-Gigi---Umum/
 
 ## Kontak
 - Email: info@rsgusentosa.com
